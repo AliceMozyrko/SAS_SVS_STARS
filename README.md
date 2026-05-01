@@ -1,10 +1,6 @@
-# Ukrainian Singing Voice Transcription & Analysis (STARS)
+# Ukrainian Automatic Singing Annotation (STARS)
 
-This repository contains the implementation and configuration for an automated analysis and transcription system for Ukrainian singing voices. The project is based on the **STARS** (Singing Tool for Analysis and Reconstruction of Speech) framework and was developed as part of a linguistics research project focused on Ukrainian phonology in musical contexts.
-
-## 🚀 Project Overview
-
-The goal of this research is to bridge the gap between acoustic signal processing and Slavic linguistics. Using a specialized corpus of Ukrainian songs, including works by contemporary artists like Serhiy Zhadan, the model was fine-tuned to recognize the unique phonetic and melodic characteristics of the Ukrainian language.
+This repository contains the implementation and configuration for an automated analysis and transcription system for Ukrainian singing voices. The project is based on the **STARS** (Singing Transcription, Alignment, and Refined Style annotation) framework and was developed as part of a linguistics research project focused on Ukrainian phonology in musical contexts.
 
 ## 🛠 Technical Specifications
 
